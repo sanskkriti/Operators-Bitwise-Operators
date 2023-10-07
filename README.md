@@ -72,7 +72,7 @@ Here, ‘+’ is the addition operator. ‘a’ and ‘b’ are the operands tha
 
 ![exp3_2](https://github.com/Purvansha022609/Operators-in-C-/assets/139473344/62f7f191-6d96-40a2-8ef1-61966a2d547d)
 
-EXP 4
+**EXP 4**
 **AIM**
 
 Bitwise operator
