@@ -232,6 +232,9 @@ Set num = num & ~(1 << bitPosition).
 
 
 - **Left Shift AND Right Shift**
+
+
+
  ![Screenshot 2023-10-08 at 11 34 59 AM](https://github.com/sanskkriti/Operators-Bitwise-Operators/assets/140137289/8cc2a5c3-fc87-428c-b07b-a2f5ff9dc572)
 
 
