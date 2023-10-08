@@ -104,7 +104,8 @@ When we shift any number to the right, the least significant bits are discarded,
 
 One bit Right Shift Operator
 
-![image](https://github.com/Purvansha022609/Bitwise-Operator/assets/139473344/9d273039-defa-4b32-b38a-921ab767699f)
+![Screenshot 2023-10-08 at 11 34 33 AM](https://github.com/sanskkriti/Operators-Bitwise-Operators/assets/140137289/106cf9ff-ab39-4ef2-b79d-d5743b79a64f)
+
 
 As we can see from the image above, we have a 4-bit number. When we perform a one-bit right shift operation on it, each individual bit is shifted to the right by 1 bit.
 
@@ -113,8 +114,8 @@ As a result, the right-most bit is discarded, while the left-most bit remains va
 **C++ Left Shift Operator**
 
 The left shift operator shifts all bits towards the left by a certain number of specified bits. It is denoted by <<.
+![Screenshot 2023-10-08 at 11 34 43 AM](https://github.com/sanskkriti/Operators-Bitwise-Operators/assets/140137289/dbc1df47-bc98-4e7a-8725-705a278629af)
 
-![image](https://github.com/Purvansha022609/Bitwise-Operator/assets/139473344/5a7dca38-0e65-44e1-9f62-734723f8d3d0)
 
 As we can see from the image above, we have a 4-bit number. When we perform a 1 bit left shift operation on it, each individual bit is shifted to the left by 1 bit.
 
@@ -227,13 +228,14 @@ Set num = num & ~(1 << bitPosition).
 - **Set and Reset the given bit**
 
 
-![exp4_3](https://github.com/Purvansha022609/Bitwise-Operator/assets/139473344/596128ab-9821-4e9d-b170-ec1ef91b00ae)
+![Screenshot 2023-10-08 at 11 34 53 AM](https://github.com/sanskkriti/Operators-Bitwise-Operators/assets/140137289/c1e2da9f-5433-4032-8833-0f1918b0953b)
+
 
 - **Left Shift AND Right Shift**
- 
-![exp4_1](https://github.com/Purvansha022609/Bitwise-Operator/assets/139473344/71626813-b143-4b00-b415-79db0a5fd0d6)
+ ![Screenshot 2023-10-08 at 11 34 59 AM](https://github.com/sanskkriti/Operators-Bitwise-Operators/assets/140137289/8cc2a5c3-fc87-428c-b07b-a2f5ff9dc572)
 
 
 - **Bit to be set or reset**
 
-![exp4_2](https://github.com/Purvansha022609/Bitwise-Operator/assets/139473344/d4901c98-777c-475d-b353-9a5b91a5f372)
+![Screenshot 2023-10-08 at 11 35 05 AM](https://github.com/sanskkriti/Operators-Bitwise-Operators/assets/140137289/b9db43f0-4f1f-44a3-8c23-3af6f3bfdbd2)
+
