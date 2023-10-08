@@ -67,10 +67,12 @@ Here, ‘+’ is the addition operator. ‘a’ and ‘b’ are the operands tha
 
 
 ## **OUTPUT**
+![Screenshot 2023-10-08 at 11 32 12 AM](https://github.com/sanskkriti/Operators-Bitwise-Operators/assets/140137289/a8d6e4b8-936b-4563-9d81-8f7be23b2732)
 
-![exp3_1](https://github.com/Purvansha022609/Operators-in-C-/assets/139473344/95e2f5b7-8022-4902-87b6-652efd562962)
 
-![exp3_2](https://github.com/Purvansha022609/Operators-in-C-/assets/139473344/62f7f191-6d96-40a2-8ef1-61966a2d547d)
+![Screenshot 2023-10-08 at 11 32 19 AM](https://github.com/sanskkriti/Operators-Bitwise-Operators/assets/140137289/617fbbdf-7dcc-4374-957e-ae1364607117)
+
+
 
 **EXP 4**
 **AIM**
